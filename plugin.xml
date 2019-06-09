@@ -19,7 +19,7 @@
 		</edit-config>
 	</platform>
 
-	<platform name="ios">
+	<!--<platform name="ios">
 		<source-file src="GoogleService-Info.plist"/>
-	</platform>
+	</platform>-->
 </plugin>
