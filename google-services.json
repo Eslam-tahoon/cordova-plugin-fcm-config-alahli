@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "688976859813",
-    "firebase_url": "https://basamh-sdc.firebaseio.com",
-    "project_id": "basamh-sdc",
-    "storage_bucket": "basamh-sdc.appspot.com"
+    "project_number": "611354144850",
+    "firebase_url": "https://sdc-x-alahli.firebaseio.com",
+    "project_id": "sdc-x-alahli",
+    "storage_bucket": "sdc-x-alahli.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:688976859813:android:ae381fcd7ee4ac22",
+        "mobilesdk_app_id": "1:611354144850:android:672c3f80cffbb4ec",
         "android_client_info": {
-          "package_name": "com.dl.basamh"
+          "package_name": "com.dl.sdcalahli"
         }
       },
       "oauth_client": [
         {
-          "client_id": "688976859813-k6npig0usandn5h4p6s63usu5rjhtj7u.apps.googleusercontent.com",
+          "client_id": "611354144850-3u4n4lb8mjf5jf9l70ua8iqgifue9uvd.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC1DqaB3IuQYJG0WmzfKsxWGpq6QkMIT6o"
+          "current_key": "AIzaSyA2WXVe723mIY2AI-Gj4Qm3VkpfwOP7sVI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "688976859813-k6npig0usandn5h4p6s63usu5rjhtj7u.apps.googleusercontent.com",
+              "client_id": "611354144850-3u4n4lb8mjf5jf9l70ua8iqgifue9uvd.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
